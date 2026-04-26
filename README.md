@@ -25,7 +25,3 @@ Breast Cancer Wisconsin Dataset (Scikit-learn)
 - NumPy
 - Matplotlib
 - SHAP
-
-
-## Author
-Your Name
